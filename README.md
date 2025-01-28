@@ -9,11 +9,14 @@
 
 
 
+
+
 <picture> <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<div align="center">
-  <iframe src="https://lottiefiles.com/your-lottie-animation-link" width="600" height="400" frameborder="0" allow="autoplay; fullscreen" loop></iframe>
-</div>
+
+
+
+
 
 
 ## ⚒️ **Languages, Frameworks, and Tools**
