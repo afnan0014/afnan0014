@@ -6,9 +6,8 @@
 👨‍💻 **Hi, I'm Muhammed Afnan N!**  
 🌱 Currently diving deep into **Artificial Intelligence, Machine Learning, and Data Engineering**  
 
-#
 
-#
+
 
 
 
