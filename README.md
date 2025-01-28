@@ -24,8 +24,9 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
 
 <im src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-</div>
 
 ## 📊 **Projects**
 <img src="https://img.shields.io/badge/Air%20Quality%20Prediction%20Model-4CAF50?style=for-the-badge&logo=cloud&logoColor=white" alt="Air Quality Prediction Model"/>
