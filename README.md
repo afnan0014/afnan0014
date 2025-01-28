@@ -4,8 +4,9 @@
 👋 **Welcome to my profile!**  
 👨‍💻 **Hi, I'm Muhammed Afnan N!**  
 🌱 Currently diving deep into **Artificial Intelligence, Machine Learning, and Data Engineering**  
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
+<picture> <img align="centre" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+	
 
 
 
@@ -22,7 +23,7 @@
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+<im src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
 
 </div>
 
@@ -44,3 +45,11 @@
 
 ### ⚡ **Fun Fact**
 I'm passionate about combining **commerce** and **technology** to solve real-world problems. Let’s connect and create something amazing! 🚀
+
+
+
+# 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
