@@ -11,9 +11,6 @@
 
 <picture> <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-gif-link.gif" alt="AI and Business Animation" width="600px"/>
-</div>
 
 
 
