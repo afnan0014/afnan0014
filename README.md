@@ -1,8 +1,15 @@
 # **MUHAMMED AFNAN N**
 
+
+
 👋 **Welcome to my profile!**  
 👨‍💻 **Hi, I'm Muhammed Afnan N!**  
 🌱 Currently diving deep into **Artificial Intelligence, Machine Learning, and Data Engineering**  
+
+
+
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/your-gif-link.gif" alt="AI and Business Animation" width="600px"/>
@@ -11,6 +18,10 @@
 
 
 ## ⚒️ **Languages, Frameworks, and Tools**
+
+
+
+
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
