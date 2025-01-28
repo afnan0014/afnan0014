@@ -47,11 +47,7 @@
 
 
 
-## 🌟 **Featured Project**
-Check out one of my key projects:  
-**Air Quality Prediction**  
-A machine learning model designed to analyze and predict air quality based on environmental data.  
-[![GitHub Repo](https://img.shields.io/badge/Explore%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo-link)
+
 
 
 
