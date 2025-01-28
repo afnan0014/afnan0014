@@ -10,7 +10,7 @@
 
 
 
-### ⚒️ **Languages, Frameworks, and Tools :**
+## ⚒️ **Languages, Frameworks, and Tools :**
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -32,12 +32,12 @@
 
 
 
-### 📊 **Projects :**
+## 📊 **Projects :**
 <img src="https://img.shields.io/badge/Air%20Quality%20Prediction%20Model-4CAF50?style=for-the-badge&logo=cloud&logoColor=white" alt="Air Quality Prediction Model"/>
 <img src="https://img.shields.io/badge/Loan%20Status%20Prediction%20Model-0078D4?style=for-the-badge&logo=money&logoColor=white" alt="Loan Status Prediction Model"/>
 
 
-### 📫 **Connect with me :**
+## 📫 **Connect with me :**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-afnan-n-a91b70329/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afnan0014)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afnan14llai@gmail.com)
@@ -53,7 +53,7 @@ I'm passionate about combining **commerce** and **technology** to solve real-wor
 
 
 
-### 🐍 A Snake Eating my Contributions Graph:
+## 🐍 A Snake Eating my Contributions Graph:
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
