@@ -33,8 +33,8 @@
 
 
 ## 📊 **Projects :**
-<img src="https://img.shields.io/badge/Air%20Quality%20Prediction%20Model-4CAF50?style=for-the-badge&logo=cloud&logoColor=white" alt="Air Quality Prediction Model"/>
-<img src="https://img.shields.io/badge/Loan%20Status%20Prediction%20Model-0078D4?style=for-the-badge&logo=money&logoColor=white" alt="Loan Status Prediction Model"/>
+<img src="https://img.shields.io/badge/Air%20Quality%20Prediction%20Model-4CAF50?style=for-the-badge&logo=cloud&logoColor=white" alt="Movie Recommendation System"/>
+<img src="https://img.shields.io/badge/Loan%20Status%20Prediction%20Model-0078D4?style=for-the-badge&logo=money&logoColor=white" alt="Used Car Price Prediction"/>
 
 
 ## 📫 **Connect with me :**
